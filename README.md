@@ -1,5 +1,6 @@
 # Eccosorb Filter
 An infrared filter based on Eccosorb epoxy.
+
 ## Purchase list
 1. Copper bar stock
 
