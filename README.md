@@ -10,7 +10,7 @@ An infrared filter based on Eccosorb epoxy.
     
 2. Copper bar stock
 
-    Superconducting 101 copper bar, Width = 1", Thickness = 1/4"
+    Superconducting 101 copper bar, Width = 1", Thickness = 1/8"
     
     https://www.mcmaster.com/3350K205/
 
