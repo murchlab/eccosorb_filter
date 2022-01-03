@@ -1,2 +1,2 @@
-# eccosorb_filter
+# Eccosorb Filter
 An infrared filter based on Eccosorb epoxy.
